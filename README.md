@@ -1,9 +1,15 @@
-## 👋 Hi there 
+## Hi! 
 
+👋 I'm Damola, a Product Designer who loves bringing ideas to life through design and code.
 
-🔭 I’m currently building [FontDuo](https://github.com/Font-Duo/Font-Duo-UI) and Prism (WIP).
+🎨 For the past seven years, I've helped startups and established companies solve complex problems through digital products. My work spans Enterprise SaaS, fashion tech, insurance tech, and fintech industries.
 
-For the past seven years, I've worked with startups and established companies to solve complex problems through digital products. I design web and mobile apps that provide real value to users. My experience spans Enterprise SaaS, fashion tech, insurance tech, and fintech industries.
+🛠️ In my spare time, I build fun and useful tools:
+- [FontDuo](https://www.figma.com/community/plugin/1410153659993903584/font-duo) - A Figma plugin for intelligent font pairing
+- [Pattern Studio](https://www.framer.com/marketplace/plugins/pattern-studio--bnihurxofcnd4q4bxk27vvnn8/preview/) - A Framer plugin to create and customize beautiful SVG patterns with intuitive controls
+- [Typescale Generator](https://www.framer.com/marketplace/plugins/typescale-generator--6bt5rdrs10cuuka7az5e3do9k/preview/) - A Framer plugin to create consistent typography hierarchies in Framer using industry-standard scales
+- Figceipt (WIP) - Coming soon!
+- Prism (WIP) - Coming soon!
 
 ⚡ Specialties: Product design, Product Strategy, Rapid Prototyping, Design Systems, Design Ops
 
