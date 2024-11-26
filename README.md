@@ -8,8 +8,7 @@
 - [FontDuo](https://www.figma.com/community/plugin/1410153659993903584/font-duo) - A Figma plugin for intelligent font pairing
 - [Pattern Studio](https://www.framer.com/marketplace/plugins/pattern-studio--bnihurxofcnd4q4bxk27vvnn8/preview/) - A Framer plugin to create and customize beautiful SVG patterns with intuitive controls
 - [Typescale Generator](https://www.framer.com/marketplace/plugins/typescale-generator--6bt5rdrs10cuuka7az5e3do9k/preview/) - A Framer plugin to create consistent typography hierarchies in Framer using industry-standard scales
-- Figceipt (WIP) - Coming soon!
-- Prism (WIP) - Coming soon!
+- [Figceipt](https://www.figma.com/community/plugin/1441121602397697623/figceipt) - Figceipt scans your Figma file and creates a beautifully designed receipt showing your design metrics
 
 ⚡ Specialties: Product design, Product Strategy, Rapid Prototyping, Design Systems, Design Ops
 
