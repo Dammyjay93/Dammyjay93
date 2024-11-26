@@ -9,6 +9,7 @@
 - [Pattern Studio](https://www.framer.com/marketplace/plugins/pattern-studio--bnihurxofcnd4q4bxk27vvnn8/preview/) - A Framer plugin to create and customize beautiful SVG patterns with intuitive controls
 - [Typescale Generator](https://www.framer.com/marketplace/plugins/typescale-generator--6bt5rdrs10cuuka7az5e3do9k/preview/) - A Framer plugin to create consistent typography hierarchies in Framer using industry-standard scales
 - [Figceipt](https://www.figma.com/community/plugin/1441121602397697623/figceipt) - Figceipt scans your Figma file and creates a beautifully designed receipt showing your design metrics
+- Prism - WIP (Coming soon!)
 
 ⚡ Specialties: Product design, Product Strategy, Rapid Prototyping, Design Systems, Design Ops
 
