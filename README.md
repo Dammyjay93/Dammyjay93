@@ -9,7 +9,9 @@
 - [Pattern Studio](https://www.framer.com/marketplace/plugins/pattern-studio) - A Framer plugin to create and customize beautiful SVG patterns with intuitive controls
 - [Typescale Generator](https://www.framer.com/marketplace/plugins/typescale-generator) - A Framer plugin to create consistent typography hierarchies in Framer using industry-standard scales
 - [Figceipt](https://www.figma.com/community/plugin/1441121602397697623/figceipt) - Figceipt scans your Figma file and creates a beautifully designed receipt showing your design metrics
+- [Snapbio](https://www.snapbio.app/) - Create a compelling professional bio for your social profile(s) in seconds.
 - Prism - WIP (Coming soon!)
+- Aeroaxis - WIP (Coming soon!)
 
 ⚡ Specialties: Product design, Product Strategy, Rapid Prototyping, Design Systems, Design Ops
 
