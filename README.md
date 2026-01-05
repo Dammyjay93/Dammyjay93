@@ -2,7 +2,7 @@
 
 👋 I'm Damola, a Product Designer who loves bringing ideas to life through design and code.
 
-🎨 For the past seven years, I've helped startups and established companies solve complex problems through digital products. My work spans Enterprise SaaS, fashion tech, insurance tech, and fintech industries.
+🎨 For the past eight years, I've helped startups and established companies solve complex problems through digital products. My work spans Enterprise SaaS, fashion tech, insurance tech, and fintech industries.
 
 🛠️ In my spare time, I build fun and useful tools:
 - [FontDuo](https://www.figma.com/community/plugin/1410153659993903584/font-duo) - A Figma plugin for intelligent font pairing
